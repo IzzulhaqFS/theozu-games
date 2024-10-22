@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Theozu Games"
 include(":app")
- 
+include(":core")
